@@ -1,0 +1,59 @@
+.head {
+    background-color: rgb(91, 163, 192);
+    text-align: center;
+    font-size: x-large;
+    margin: 0%;
+    height: 200px;
+}
+
+#headline {
+    margin: 0%;
+    padding-top: 75px;
+    color: white;
+}
+
+.navigation {
+    margin: 0%;
+    height: 30px;
+    background-color: black;
+}
+
+.navi {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.Certi {
+    text-align: center;
+    font-size: 25px;
+}
+
+.owner {
+    align-content: center;
+    border: 10px solid black;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.founder {
+    background: rgb(91, 163, 192);
+    font-size: 40px;
+    text-align: center;
+}
+
+.us {
+    font-size: 30px;
+    text-align: center;
+}
+
+.back {
+    background: linear-gradient(to right, white, rgb(222, 246, 255));
+}
+
+.back1 {
+    background: linear-gradient(to right, rgb(222, 246, 255), white);
+}
